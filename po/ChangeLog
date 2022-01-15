@@ -1,0 +1,25 @@
+2005-12-22  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* es.po: 
+	
+	Changed version, copyright
+
+2005-12-22  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* cssed-quicksearch-plugin.pot, fr.po: 
+	
+	Changed version
+
+2004-09-13  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* es.po, fr.po: 
+	
+	Changed strings according to changes in source files
+	Changed headers to conform to all cssed po files
+	Updated both fr and es
+
+	Created new pot file
+
+	* fr.po: 
+	
+	First translation

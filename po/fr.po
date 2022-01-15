@@ -1,0 +1,63 @@
+# French translation of cssed-quicksearch-plugin.
+# Copyright (C) 2004-2005, Iago Rubio
+# This file is distributed under the same license as the cssed package.
+# Michèle Garoche <michele.garoche@easyconnect.fr>, 2004-2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cssed-quicksearch-plugin-0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-05-31 19:54+0200\n"
+"PO-Revision-Date: 2005-12-22 22:58+0100\n"
+"Last-Translator: Michèle Garoche <michele.garoche@easyconnect.fr>\n"
+"Language-Team: French <gnomefr@traduc.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/quicksearch.c:86
+msgid "Quick search"
+msgstr "Recherche rapide"
+
+#. the plugin name
+#: src/quicksearch.c:87
+msgid "Adds a search entry to the toolbar"
+msgstr "Ajoute un champ recherche à la barre d'outils"
+
+#: src/quicksearch.c:119 src/quicksearch.c:130
+msgid "No text"
+msgstr "Aucun texte."
+
+#: src/quicksearch.c:119 src/quicksearch.c:130
+msgid "There is no text to be searched. Please enter a string to be searched"
+msgstr ""
+"Il n'existe aucun texte à rechercher. Veuillez saisir une chaîne de "
+"caractères."
+
+#: src/quicksearch.c:172
+msgid "Enter a text to search"
+msgstr "Saisissez le texte à rechercher"
+
+#: src/quicksearch.c:173
+msgid "Click to search backwards"
+msgstr "Cliquez pour rechercher vers le haut"
+
+#: src/quicksearch.c:174
+msgid "Click to search forwards"
+msgstr "Cliquez pour rechercher vers le bas"
+
+#: src/quicksearch.c:179
+msgid "Cannot add widget to toolbar"
+msgstr "Impossible d'ajouter un objet à la barre d'outils"
+
+#: src/quicksearch.c:179
+msgid ""
+"There was an error while loading the plugin\n"
+"It may fail at any point, please unload it"
+msgstr ""
+"Il y a eu une erreur lors du chargement du plugin\n"
+"Il se peut qu'il ne fonctionne pas correctement ultérieurement, veuillez le "
+"recharger"
+
+#~ msgid "** Quick search plugin unloaded\n"
+#~ msgstr "** Plugin de recherche rapide déchargé\n"

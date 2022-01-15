@@ -1,0 +1,61 @@
+# Spanish translation of cssed-quicksearch-plugin.
+# Copyright (C) 2004-2005, Iago Rubio
+# This file is distributed under the same license as the cssed package.
+# Iago Rubio <iagorubio@users.sourceforge.net>, 2004-2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cssed-quicksearch-plugin-0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-05-31 19:54+0200\n"
+"PO-Revision-Date: 2005-12-25 02:40+0100\n"
+"Last-Translator: Iago Rubio <iagorubio@users.sourceforge.net>\n"
+"Language-Team: Español <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/quicksearch.c:86
+msgid "Quick search"
+msgstr "Búsqueda rápida"
+
+#. the plugin name
+#: src/quicksearch.c:87
+msgid "Adds a search entry to the toolbar"
+msgstr "Añade una entrada de búsqueda rapida a la barra de herramientas"
+
+#: src/quicksearch.c:119 src/quicksearch.c:130
+msgid "No text"
+msgstr "Ningun texto"
+
+#: src/quicksearch.c:119 src/quicksearch.c:130
+msgid "There is no text to be searched. Please enter a string to be searched"
+msgstr ""
+"No hay un término de búsqueda. Por favor introduzca un término de búsqueda"
+
+#: src/quicksearch.c:172
+msgid "Enter a text to search"
+msgstr "Introduce un texto para buscar"
+
+#: src/quicksearch.c:173
+msgid "Click to search backwards"
+msgstr "Pulsar para buscar hacia arriba"
+
+#: src/quicksearch.c:174
+msgid "Click to search forwards"
+msgstr "Pulsar para buscar hacia abajo"
+
+#: src/quicksearch.c:179
+msgid "Cannot add widget to toolbar"
+msgstr "No puedo añadir el control a la barra de herramientas"
+
+#: src/quicksearch.c:179
+msgid ""
+"There was an error while loading the plugin\n"
+"It may fail at any point, please unload it"
+msgstr ""
+"Existió un error cargando el plugin\n"
+"Puede fallar en cualquier punto, por favor descarga el plugin"
+
+#~ msgid "** Quick search plugin unloaded\n"
+#~ msgstr "** Plugin búsqueda rápida descargado\n"

@@ -1,0 +1,16 @@
+2005-12-25  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* README: 
+	
+	Changed copyright
+
+2004-09-13  Michèle Garoche <michele.garoche@easyconnect.fr>
+
+	* configure.in: 
+	
+	Added fr to ALL_LINGUAS
+	
+	* NEWS:
+	
+	Given it contents
+

@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-05-31 19:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/quicksearch.c:86
+msgid "Quick search"
+msgstr ""
+
+#. the plugin name
+#: src/quicksearch.c:87
+msgid "Adds a search entry to the toolbar"
+msgstr ""
+
+#: src/quicksearch.c:119 src/quicksearch.c:130
+msgid "No text"
+msgstr ""
+
+#: src/quicksearch.c:119 src/quicksearch.c:130
+msgid "There is no text to be searched. Please enter a string to be searched"
+msgstr ""
+
+#: src/quicksearch.c:172
+msgid "Enter a text to search"
+msgstr ""
+
+#: src/quicksearch.c:173
+msgid "Click to search backwards"
+msgstr ""
+
+#: src/quicksearch.c:174
+msgid "Click to search forwards"
+msgstr ""
+
+#: src/quicksearch.c:179
+msgid "Cannot add widget to toolbar"
+msgstr ""
+
+#: src/quicksearch.c:179
+msgid ""
+"There was an error while loading the plugin\n"
+"It may fail at any point, please unload it"
+msgstr ""
